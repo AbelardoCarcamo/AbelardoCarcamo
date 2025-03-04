@@ -1,8 +1,8 @@
 # ¡Hola, soy Abelardo Carcamo! 👋
 
-![Header](https://github.com/AbelardoCarcamo/AbelardoCarcamo/blob/main/LINKEDIN%20HEADER.png)
-
 Soy estudiante de **Ciberseguridad** en la **Universidad Tecnológica de Panamá**, actualmente cursando el segundo año de la carrera. A lo largo de mi formación, he adquirido experiencia en **roles administrativos** y continúo aprendiendo y perfeccionando mis habilidades con **herramientas de hacking ético** y en lenguajes de programación como **C**, **Java** y **Python**.
+
+![Header](https://github.com/AbelardoCarcamo/AbelardoCarcamo/blob/main/LINKEDIN%20HEADER.png)
 
 ## 🚀 Proyectos recientes
 
