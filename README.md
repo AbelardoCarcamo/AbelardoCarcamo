@@ -23,6 +23,7 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🔒 **Rocky Linux Hardening with OpenSCAP** | Hardening automatizado contra CIS Benchmark Level 1 y STIG en Rocky Linux 9. Escaneo, remediación con Ansible y comparativa pre/post compliance. | Rocky Linux · OpenSCAP · Ansible · SCAP |
 | 🏢 **Enterprise Cybersecurity Lab** | Laboratorio en Oracle Cloud con Active Directory, Splunk Enterprise y ManageEngine ADSelfService | OCI · AD · Splunk · RDP |
 | 📊 **Data Warehouse & Analytics Pipeline** | Pipeline de datos con AWS S3, SQL Server y Power BI — Copa Airlines Hackathon 2025 | Python · SQL · AWS · Power BI |
 | 🌐 **Nexium Security** | Landing page y propuesta comercial para consultoría de ciberseguridad en Panamá | HTML/CSS · GitHub Pages · Cloudflare |
@@ -33,10 +34,10 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ```
   Blue Team / SOC          →  Análisis de logs, SIEM, threat intelligence, respuesta a incidentes
+  Hardening & Compliance   →  CIS Benchmarks, STIG, OpenSCAP, Ansible remediation, GRC
   Ethical Hacking          →  Metasploit, Kali Linux, OWASP Top 10, wireless pentesting (WPA2/WPA3)
   Scripting Defensivo      →  Python, Bash — automatización de tareas de seguridad
   Cloud & Infraestructura  →  Oracle Cloud (OCI), AWS, VMware, Active Directory
-  GRC                      →  Gestión de riesgos, cumplimiento normativo, frameworks de seguridad
 ```
 
 ---
@@ -48,6 +49,8 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Scripting & Desarrollo**\
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,17 +60,18 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 **Infraestructura & Cloud**\
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Herramientas**\
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
