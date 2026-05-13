@@ -44,23 +44,58 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ## 💻 Tech Stack
 
-**Seguridad & Análisis**
-`Kali Linux` `Metasploit` `OpenSCAP` `Ansible` `Splunk` `Wireshark`
+**Seguridad & Análisis**<br>
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Scripting & Desarrollo**
-`Python` `Bash` `C` `PowerShell`
+**Scripting & Desarrollo**<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Infraestructura & Cloud**
-`Linux` `Rocky Linux` `Windows` `Oracle Cloud (OCI)` `AWS` `VMware`
+**Infraestructura & Cloud**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-**Herramientas**
-`Git` `GitHub` `Docker` `VS Code` `MySQL`
+**Herramientas**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbelardoCarcamo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=false)](https://github.com/AbelardoCarcamo)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbelardoCarcamo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AbelardoCarcamo&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoCarcamo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbelardoCarcamo&theme=algolia&no-frame=true&no-bg=false&margin-w=6)
+
+</div>
 
 ---
 
@@ -79,6 +114,8 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 ---
 
 <div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=AbelardoCarcamo&icon=6&color=0)](https://visitcount.itsvg.in)
 
 *"Security is a process, not a product."* — Bruce Schneier
 
