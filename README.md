@@ -11,7 +11,7 @@
 
 ---
 
-## 👤 Sobre mí
+## Sobre mí
 
 Estudiante de **Licenciatura en Ciberseguridad** en la Universidad Tecnológica de Panamá (UTP), con enfoque en operaciones de seguridad (SOC), análisis de amenazas y defensa de infraestructuras. Fundador de **[Nexium Security](https://nexium-security.tech)**, consultoría de ciberseguridad orientada a PYMEs panameñas.
 
@@ -19,18 +19,18 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ---
 
-## 🔭 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🔒 **Rocky Linux Hardening with OpenSCAP** | Hardening automatizado contra CIS Benchmark Level 1 y STIG en Rocky Linux 9. Escaneo, remediación con Ansible y comparativa pre/post compliance. | Rocky Linux · OpenSCAP · Ansible · SCAP |
-| 🏢 **Enterprise Cybersecurity Lab** | Laboratorio en Oracle Cloud con Active Directory, Splunk Enterprise y ManageEngine ADSelfService | OCI · AD · Splunk · RDP |
-| 📊 **Data Warehouse & Analytics Pipeline** | Pipeline de datos con AWS S3, SQL Server y Power BI — Copa Airlines Hackathon 2025 | Python · SQL · AWS · Power BI |
-| 🌐 **Nexium Security** | Landing page y propuesta comercial para consultoría de ciberseguridad en Panamá | HTML/CSS · GitHub Pages · Cloudflare |
+|  **Rocky Linux Hardening with OpenSCAP** | Hardening automatizado contra CIS Benchmark Level 1 y STIG en Rocky Linux 9. Escaneo, remediación con Ansible y comparativa pre/post compliance. | Rocky Linux · OpenSCAP · Ansible · SCAP |
+|  **Enterprise Cybersecurity Lab** | Laboratorio en Oracle Cloud con Active Directory, Splunk Enterprise y ManageEngine ADSelfService | OCI · AD · Splunk · RDP |
+|  **Data Warehouse & Analytics Pipeline** | Pipeline de datos con AWS S3, SQL Server y Power BI — Copa Airlines Hackathon 2025 | Python · SQL · AWS · Power BI |
+|  **Nexium Security** | Landing page y propuesta comercial para consultoría de ciberseguridad en Panamá | HTML/CSS · GitHub Pages · Cloudflare |
 
 ---
 
-## 🛡️ Áreas de Enfoque
+##  Áreas de Enfoque
 
 ```
   Blue Team / SOC          →  Análisis de logs, SIEM, threat intelligence, respuesta a incidentes
@@ -75,7 +75,7 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ---
 
-## 🏆 Trofeos
+##  Trofeos
 
 <div align="center">
 
@@ -99,15 +99,15 @@ Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Ci
 
 ---
 
-## 📜 Certificaciones Relevantes
+##  Certificaciones Relevantes
 
-- 🎓 Hacking Ético Red & Blue — Universidad Tecnológica de Panamá
-- ☁️ AWS Cloud Architecting / Cloud Foundations / ML Foundations — Amazon Web Services
-- 🔍 Introduction to Cyber Attacks — New York University
-- 🛡️ GRC Approach to Managing Cybersecurity — Kennesaw State University
-- 📊 Threat Intelligence Lifecycle — IBM
-- 🐍 Python for Cybersecurity — Infosec Institute
-- 🐧 Linux Tools for Developers — The Linux Foundation
+-  Hacking Ético Red & Blue — Universidad Tecnológica de Panamá
+-  AWS Cloud Architecting / Cloud Foundations / ML Foundations — Amazon Web Services
+-  Introduction to Cyber Attacks — New York University
+-  GRC Approach to Managing Cybersecurity — Kennesaw State University
+-  Threat Intelligence Lifecycle — IBM
+-  Python for Cybersecurity — Infosec Institute
+-  Linux Tools for Developers — The Linux Foundation
 
 > Ver lista completa en [LinkedIn](https://www.linkedin.com/in/abelardocb/)
 
