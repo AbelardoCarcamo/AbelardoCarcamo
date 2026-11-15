@@ -1,11 +1,11 @@
 <div align="center">
 
 # Abelardo Cárcamo Barría
-### Cybersecurity Student · Blue Team · SOC | Panamá 🇵🇦
+### Cybersecurity & Blue Team Engineer · SOC Operations · Cloud Security | Panamá 🇵🇦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelardocb/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abelardotech@outlook.es)
-[![Nexium Security](https://img.shields.io/badge/Nexium%20Security-000000?logo=shield&logoColor=white)](https://nexium-security.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelardocb/)
+[![Email](https://img.shields.io/badge/abelardo@carcamo.systems-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelardo@carcamo.systems)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbelardoCarcamo&label=Vistas&color=0e75b6&style=for-the-badge)](https://github.com/AbelardoCarcamo)
 
 </div>
 
@@ -13,109 +13,89 @@
 
 ## Sobre mí
 
-Estudiante de **Licenciatura en Ciberseguridad** en la Universidad Tecnológica de Panamá (UTP), con enfoque en operaciones de seguridad (SOC), análisis de amenazas y defensa de infraestructuras. Fundador de **[Nexium Security](https://nexium-security.tech)**, consultoría de ciberseguridad orientada a PYMEs panameñas.
+Estudiante de **Licenciatura en Ciberseguridad** en la Universidad Tecnológica de Panamá (UTP), especializado en **operaciones de seguridad (SOC), ingeniería de detección, hardening de servidores y arquitecturas Zero Trust**.
 
-Actualmente preparando participación en **JIC 2026** (Jornada de Iniciación Científica) y desarrollando competencias en wireless pentesting, análisis forense y automatización defensiva con Python y Bash.
+Diseño y despliego entornos empresariales simulados para análisis de telemetría, correlación de eventos y respuesta a incidentes. Actualmente me enfoco en la automatización defensiva con **Python, Bash y Ansible**, monitoreo continuo con **Wazuh SIEM / Splunk** y preparación para la certificación **Microsoft SC-200 (Security Operations Analyst)**.
 
 ---
 
-##  Proyectos Destacados
+## Proyectos Destacados
 
-| Proyecto | Descripción | Stack |
+> **Tip:** Asegúrate de enlazar cada título a su repositorio público correspondiente (`[Nombre](https://github.com/AbelardoCarcamo/repo)`) y fijarlos (*Pin*) en tu perfil.
+
+| Proyecto | Arquitectura & Impacto Técnico | Stack Principal |
 |---|---|---|
-|  **Rocky Linux Hardening with OpenSCAP** | Hardening automatizado contra CIS Benchmark Level 1 y STIG en Rocky Linux 9. Escaneo, remediación con Ansible y comparativa pre/post compliance. | Rocky Linux · OpenSCAP · Ansible · SCAP |
-|  **Enterprise Cybersecurity Lab** | Laboratorio en Oracle Cloud con Active Directory, Splunk Enterprise y ManageEngine ADSelfService | OCI · AD · Splunk · RDP |
-|  **Data Warehouse & Analytics Pipeline** | Pipeline de datos con AWS S3, SQL Server y Power BI — Copa Airlines Hackathon 2025 | Python · SQL · AWS · Power BI |
-|  **Nexium Security** | Landing page y propuesta comercial para consultoría de ciberseguridad en Panamá | HTML/CSS · GitHub Pages · Cloudflare |
+| **Proyecto Meridian (Horizonte Tropical)** | Arquitectura empresarial multi-capa con segmentación **Zero Trust**, reverse proxy con **ModSecurity WAF**, red mesh cifrada y telemetría centralizada en **SIEM** + **Sysmon**. | `Docker` · `Wazuh SIEM` · `ModSecurity` · `Tailscale` · `MariaDB` |
+| **Rocky Linux Hardening with OpenSCAP** | Automatización de cumplimiento contra **CIS Benchmark Level 1** y **DISA STIG** en Rocky Linux 9. Auditoría automatizada, remediación idempotente y reportes pre/post hardening. | `Rocky Linux` · `OpenSCAP` · `Ansible` · `SCAP` |
+| **Enterprise Cybersecurity Lab (OCI)** | Entorno híbrido en Oracle Cloud con **Active Directory**, políticas GPO endurecidas, gestión de identidad y recolección de logs para detección de anomalías. | `Oracle Cloud` · `Active Directory` · `Splunk` · `Windows Server` |
+| **Data Warehouse & Analytics Pipeline** | Pipeline ETL automatizado para ingesta, transformación y visualización de métricas operativas desarrollado para el **Copa Airlines Hackathon**. | `Python` · `SQL Server` · `AWS S3` · `Power BI` |
 
 ---
 
-##  Áreas de Enfoque
+## Dominios Técnicos & Keywords
 
-```
-  Blue Team / SOC          →  Análisis de logs, SIEM, threat intelligence, respuesta a incidentes
-  Hardening & Compliance   →  CIS Benchmarks, STIG, OpenSCAP, Ansible remediation, GRC
-  Ethical Hacking          →  Metasploit, Kali Linux, OWASP Top 10, wireless pentesting (WPA2/WPA3)
-  Scripting Defensivo      →  Python, Bash — automatización de tareas de seguridad
-  Cloud & Infraestructura  →  Oracle Cloud (OCI), AWS, VMware, Active Directory
-```
+* **Blue Team & SOC Operations:** SIEM (Wazuh, Splunk), Log Analysis, Incident Response (IR), Threat Hunting, Threat Intelligence, MITRE ATT&CK, Sysmon Telemetry.
+* **Hardening, GRC & Compliance:** CIS Benchmarks, DISA STIG, OpenSCAP, Vulnerability Management, Zero Trust Network Access (ZTNA), WAF Rulesets.
+* **Offensive Security & Pentesting:** Reconocimiento, OWASP Top 10, Metasploit, Wireshark Packet Analysis, Wireless Security (WPA2/WPA3).
+* **Cloud, Redes & Automatización:** AWS, Oracle Cloud (OCI), Docker & Docker Compose, Ansible, FortiGate, Cisco IOS, Python & Bash Scripting.
 
 ---
 
-## 💻 Tech Stack
+## Stack Tecnológico
 
-**Seguridad & Análisis**<br>
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+**Seguridad, SIEM & Monitoreo**<br>
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OpenSCAP](https://img.shields.io/badge/OpenSCAP-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-**Scripting & Desarrollo**<br>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Infraestructura & Cloud**<br>
+**Infraestructura, Cloud & Redes**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-**Herramientas**<br>
+**Scripting, Desarrollo & Bases de Datos**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB_&_MySQL-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-##  GitHub Stats
+## Certificaciones & Formación Continua
+
+* 🎯 **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — *En preparación*
+* ☁️ **AWS Academy Graduate** — Cloud Architecting, Cloud Foundations & Machine Learning Foundations *(Amazon Web Services)*
+* 🛡️ **GRC Approach to Managing Cybersecurity** *(Kennesaw State University)*
+* ⚔️ **Hacking Ético: Fundamentos de Equipo Rojo y Azul** *(Universidad Tecnológica de Panamá)*
+* 🔍 **Threat Intelligence Lifecycle** *(IBM)* · **Introduction to Cyber Attacks** *(NYU)*
+* 🐍 **Python for Cybersecurity** *(Infosec)* · **Linux Tools for Developers** *(The Linux Foundation)*
+
+---
+
+## Actividad en GitHub
+
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbelardoCarcamo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoCarcamo&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbelardoCarcamo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbelardoCarcamo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AbelardoCarcamo&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoCarcamo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-##  Trofeos
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbelardoCarcamo&theme=algolia&no-frame=true&no-bg=false&margin-w=6)
-
-</div>
-
----
-
-##  Certificaciones Relevantes
-
--  Hacking Ético Red & Blue — Universidad Tecnológica de Panamá
--  AWS Cloud Architecting / Cloud Foundations / ML Foundations — Amazon Web Services
--  Introduction to Cyber Attacks — New York University
--  GRC Approach to Managing Cybersecurity — Kennesaw State University
--  Threat Intelligence Lifecycle — IBM
--  Python for Cybersecurity — Infosec Institute
--  Linux Tools for Developers — The Linux Foundation
-
-> Ver lista completa en [LinkedIn](https://www.linkedin.com/in/abelardocb/)
-
----
-
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=AbelardoCarcamo&icon=6&color=0)](https://visitcount.itsvg.in)
 
 *"Security is a process, not a product."* — Bruce Schneier
 
