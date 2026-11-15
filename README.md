@@ -84,8 +84,8 @@ Construyo laboratorios de infraestructura empresarial para simular detección de
 ## Actividad en GitHub
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbelardoCarcamo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoCarcamo&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbelardoCarcamo&theme=github_dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbelardoCarcamo&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
